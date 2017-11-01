@@ -1,0 +1,6 @@
+framework module Pods_Rao {
+  umbrella header "Pods-Rao-umbrella.h"
+
+  export *
+  module * { export * }
+}
